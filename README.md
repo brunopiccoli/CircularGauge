@@ -11,5 +11,5 @@ New features:
 - Set a maximum measurement range
 - Set a color manually based on an expression
 
-Basead in CircularKpi with more functionalities: 
+Based in CircularKpi with more functionalities: 
 https://github.com/johsund/CircularKPI
