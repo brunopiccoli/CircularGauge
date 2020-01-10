@@ -1,0 +1,27 @@
+.qv-object-CircularGauge .background {
+	fill:rgb(0,255,255);
+	fill-opacity:0;
+}
+
+.qv-object-CircularGauge .label {
+	text-anchor: middle;
+}
+.qv-object-CircularGauge .circular-kpi-tile {
+    margin: 0;
+    float: left;
+}
+.qv-object-CircularGauge .component {
+    fill: #e1e1e1;
+}
+.qv-object-CircularGauge .circular-kpi-tile {
+    text-align: center;
+}
+
+.qv-object-CircularGauge .arc {
+            stroke-weight: 0;
+        }
+
+.qv-object-CircularGauge .arc2 {
+            stroke-weight: 0;
+        }
+
