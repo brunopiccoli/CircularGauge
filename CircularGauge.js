@@ -129,7 +129,15 @@ define(["jquery", "text!./scripts/style.css", "./scripts/themes", "./scripts/d3.
                             }
                         }
                     }
-                }
+                },
+                addons: {
+					uses: "addons",
+					items: {
+						dataHandling: {
+							uses: "dataHandling"
+						}
+					}
+				}
             }
         },
         snapshot: {
